@@ -1,0 +1,45 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    width: 960px;
+    margin: auto;
+}
+header{
+    display: block;
+    border-bottom: 10px dotted pink;
+}
+header img {
+    float: left;
+}
+#topHead {
+    font-family:' yellowtail ' , cursiv;
+}
+nav{
+    float:right ;
+}
+h1{
+    font-size: 40px;
+}
+h3{
+    text-transform: uppercase ;
+    color :gray;
+}
+article{
+    display: block;
+}
+#print {
+    float: right;
+}
+#printText {
+    color: gray ;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+ article p {
+    position: relative;
+    text-align: justify;
+}
+/* #container #tableOne{
+    position: relative;
+    text-align: center;
+    color: white;
+  }  */
